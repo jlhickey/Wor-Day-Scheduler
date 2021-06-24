@@ -1,0 +1,100 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px; 
+
+}
+
+textarea {
+  background: transparent;
+  resize: none;
+  color: #eb11a2;
+  border: 1px solid rgb(52, 77, 94);
+   
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: white;
+  margin: -70px;
+  padding: auto -10px;
+}
+
+
+
+.row {
+  height: 80px;
+  justify-content: center;
+}
+
+.hour {
+  background-color: #1484cf;
+  color: white;
+  justify-self: left;
+}
+
+.past {
+  background-color: #ff6961;
+  color: white;
+}
+
+.present {
+  background-color: #1484cf;
+  color: white;
+}
+
+.future {
+  background-color: #270479;
+  color: white;
+}
+
+.saveBtn {
+  background-color: #1484cf;
+  color: white;
+  border: none;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+
+h1, #currentDay {
+  font-family: 'Homemade Apple', cursive;
+}
+
+h1 {
+  font-size: 3rem;
+  padding: 10px;
+}
+
+.planner-container {
+  background-color: rgb(13, 183, 206);
+  border-radius: 10px;
+  padding: 10px 10px;
+  margin: 20px auto;
+  opacity: 95%;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 500px) {
+  .planner-container {
+    padding: auto -50px;
+    margin: 0px 0px;
+  }
+
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    margin: 5px;
+  }
+
+  body {
+    font-size: 12px;
+  }
+
+  * {
+    box-sizing: content-box;
+  }
+}
