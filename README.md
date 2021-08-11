@@ -12,7 +12,7 @@ SO THAT I can manage my time effectively; get my work done and get all of my err
 
 
 
-## MY REPOSITORIES
+## My Repositories
 - [My Work-Day-Scheduler Project: (https://github.com/jlhickey/Work-Day-Scheduler]
 - [MyGitHub: https://github.com/jlhickey]
 - [Live link: https://jlhickey.github.io/Work-Day-Scheduler]
