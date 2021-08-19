@@ -2,7 +2,7 @@
   
 # ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
 
-
+![alt text](https://github.com/jlhickey/Note-Taker/blob/main/myworkday.jpeg)
 
 ## User Story
 AS AN employee with a busy schedule I WANT to add important events to a daily planner
